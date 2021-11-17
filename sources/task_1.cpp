@@ -2,7 +2,6 @@
 
 #include <tasks.hpp>
 
-
 // Task 1.
 void multi_2(std::vector<int>& input) {
   for (size_t i = 0; i < size(input); ++i) {
